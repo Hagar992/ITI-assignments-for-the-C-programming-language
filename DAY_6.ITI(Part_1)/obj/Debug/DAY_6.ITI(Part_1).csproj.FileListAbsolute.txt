@@ -1,0 +1,14 @@
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).exe.config
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).exe
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).pdb
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).exe
+E:\C#\end\تطبيق\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).pdb
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).exe.config
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).exe
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\bin\Debug\DAY_6.ITI(Part_1).pdb
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).exe
+E:\C#\end\تطبيق\ITI\DAY_6.ITI(Part_1)\obj\Debug\DAY_6.ITI(Part_1).pdb

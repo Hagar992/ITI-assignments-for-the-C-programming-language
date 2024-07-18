@@ -1,0 +1,14 @@
+E:\C#\end\تطبيق\Task_2(iti)\bin\Debug\Task_2(iti).exe.config
+E:\C#\end\تطبيق\Task_2(iti)\bin\Debug\Task_2(iti).exe
+E:\C#\end\تطبيق\Task_2(iti)\bin\Debug\Task_2(iti).pdb
+E:\C#\end\تطبيق\Task_2(iti)\obj\Debug\Task_2(iti).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\Task_2(iti)\obj\Debug\Task_2(iti).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\Task_2(iti)\obj\Debug\Task_2(iti).exe
+E:\C#\end\تطبيق\Task_2(iti)\obj\Debug\Task_2(iti).pdb
+E:\C#\end\تطبيق\Iti\Task_2(iti)\bin\Debug\Task_2(iti).exe.config
+E:\C#\end\تطبيق\Iti\Task_2(iti)\bin\Debug\Task_2(iti).exe
+E:\C#\end\تطبيق\Iti\Task_2(iti)\bin\Debug\Task_2(iti).pdb
+E:\C#\end\تطبيق\Iti\Task_2(iti)\obj\Debug\Task_2(iti).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\Iti\Task_2(iti)\obj\Debug\Task_2(iti).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\Iti\Task_2(iti)\obj\Debug\Task_2(iti).exe
+E:\C#\end\تطبيق\Iti\Task_2(iti)\obj\Debug\Task_2(iti).pdb

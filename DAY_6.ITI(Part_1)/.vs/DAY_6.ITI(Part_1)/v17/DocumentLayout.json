@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|e:\\c#\\end\\\u062A\u0637\u0628\u064A\u0642\\iti\\day_6.iti(part_1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\mcq question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|solutionrelative:mcq question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\t or f question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89AD153-8850-4230-9692-19B63ED2600C}|DAY_6.ITI(Part_1).csproj|solutionrelative:t or f question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "T or F Question.cs",
+              "DocumentMoniker": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\T or F Question.cs",
+              "RelativeDocumentMoniker": "T or F Question.cs",
+              "ToolTip": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\T or F Question.cs",
+              "RelativeToolTip": "T or F Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:36:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MCQ Question.cs",
+              "DocumentMoniker": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\MCQ Question.cs",
+              "RelativeDocumentMoniker": "MCQ Question.cs",
+              "ToolTip": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\MCQ Question.cs",
+              "RelativeToolTip": "MCQ Question.cs",
+              "ViewState": "AQIAAAEAAAAAMzMzMzMLwCUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:35:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AQIAABIAAACgzMzMzMwowB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:34:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\end\\\u062A\u0637\u0628\u064A\u0642\\ITI\\DAY_6.ITI(Part_1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:14:14.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

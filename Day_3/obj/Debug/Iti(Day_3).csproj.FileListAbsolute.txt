@@ -1,0 +1,7 @@
+E:\C#\end\تطبيق\Iti(Day_3)\bin\Debug\Iti(Day_3).exe.config
+E:\C#\end\تطبيق\Iti(Day_3)\bin\Debug\Iti(Day_3).exe
+E:\C#\end\تطبيق\Iti(Day_3)\bin\Debug\Iti(Day_3).pdb
+E:\C#\end\تطبيق\Iti(Day_3)\obj\Debug\Iti(Day_3).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\Iti(Day_3)\obj\Debug\Iti(Day_3).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\Iti(Day_3)\obj\Debug\Iti(Day_3).exe
+E:\C#\end\تطبيق\Iti(Day_3)\obj\Debug\Iti(Day_3).pdb

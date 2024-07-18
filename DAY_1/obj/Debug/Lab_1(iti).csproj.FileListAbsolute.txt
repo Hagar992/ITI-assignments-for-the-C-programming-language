@@ -1,0 +1,7 @@
+E:\C#\end\تطبيق\Lab_1(iti)\bin\Debug\Lab_1(iti).exe.config
+E:\C#\end\تطبيق\Lab_1(iti)\bin\Debug\Lab_1(iti).exe
+E:\C#\end\تطبيق\Lab_1(iti)\bin\Debug\Lab_1(iti).pdb
+E:\C#\end\تطبيق\Lab_1(iti)\obj\Debug\Lab_1(iti).csproj.AssemblyReference.cache
+E:\C#\end\تطبيق\Lab_1(iti)\obj\Debug\Lab_1(iti).csproj.CoreCompileInputs.cache
+E:\C#\end\تطبيق\Lab_1(iti)\obj\Debug\Lab_1(iti).exe
+E:\C#\end\تطبيق\Lab_1(iti)\obj\Debug\Lab_1(iti).pdb
