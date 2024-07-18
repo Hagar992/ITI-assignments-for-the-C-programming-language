@@ -1,7 +1,0 @@
-E:\C#\end\تطبيق\DAY_4(part_3)\bin\Debug\DAY_4(part_3).exe.config
-E:\C#\end\تطبيق\DAY_4(part_3)\bin\Debug\DAY_4(part_3).exe
-E:\C#\end\تطبيق\DAY_4(part_3)\bin\Debug\DAY_4(part_3).pdb
-E:\C#\end\تطبيق\DAY_4(part_3)\obj\Debug\DAY_4(part_3).csproj.AssemblyReference.cache
-E:\C#\end\تطبيق\DAY_4(part_3)\obj\Debug\DAY_4(part_3).csproj.CoreCompileInputs.cache
-E:\C#\end\تطبيق\DAY_4(part_3)\obj\Debug\DAY_4(part_3).exe
-E:\C#\end\تطبيق\DAY_4(part_3)\obj\Debug\DAY_4(part_3).pdb
