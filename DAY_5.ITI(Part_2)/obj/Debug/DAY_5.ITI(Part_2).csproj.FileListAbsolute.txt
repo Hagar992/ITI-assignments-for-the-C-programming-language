@@ -1,7 +1,0 @@
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\obj\Debug\DAY_5.ITI(Part_2).csproj.AssemblyReference.cache
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\obj\Debug\DAY_5.ITI(Part_2).csproj.CoreCompileInputs.cache
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\bin\Debug\DAY_5.ITI(Part_2).exe.config
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\bin\Debug\DAY_5.ITI(Part_2).exe
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\bin\Debug\DAY_5.ITI(Part_2).pdb
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\obj\Debug\DAY_5.ITI(Part_2).exe
-E:\C#\end\تطبيق\DAY_5.ITI(Part_2)\obj\Debug\DAY_5.ITI(Part_2).pdb
